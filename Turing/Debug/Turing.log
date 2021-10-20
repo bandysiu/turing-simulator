@@ -1,0 +1,5 @@
+﻿  Turing.cpp
+C:\Users\Abelis\Desktop\VS Projects\Turing\Turing.cpp(12,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Abelis\Desktop\VS Projects\Turing\Turing.cpp(12,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Abelis\Desktop\VS Projects\Turing\Turing.cpp(143,27): warning C4018: '<': signed/unsigned mismatch
+  Turing.vcxproj -> C:\Users\Abelis\Desktop\VS Projects\Turing\Debug\Turing.exe

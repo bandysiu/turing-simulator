@@ -1,0 +1,2 @@
+C:\Users\Abelis\Desktop\VS Projects\Turing\Debug\Turing.exe
+C:\Users\Abelis\Desktop\VS Projects\Turing\Debug\Turing.pdb
